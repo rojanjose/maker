@@ -1,0 +1,7 @@
+_site/
+.jekyll-cache/
+vendor/
+Gemfile.lock
+.venv/
+.bundle/
+.claude/

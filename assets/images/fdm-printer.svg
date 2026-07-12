@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Close-up illustration of an FDM nozzle laying down layers">
+  <rect width="1200" height="675" fill="#eef1ec"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- nozzle assembly -->
+    <rect x="520" y="90" width="160" height="120" rx="10" fill="#ffffff"/>
+    <rect x="556" y="210" width="88" height="46" fill="#a94418"/>
+    <path d="M572 256 L628 256 L600 316 Z" fill="#1a1a1a"/>
+    <!-- extruded layers -->
+    <path d="M300 470 h600" stroke-width="16" stroke="#c9dbe4"/>
+    <path d="M300 442 h600" stroke-width="16" stroke="#c9dbe4"/>
+    <path d="M300 414 h430" stroke-width="16" stroke="#c9dbe4"/>
+    <path d="M300 386 h300" stroke-width="16" stroke="#c9dbe4"/>
+    <path d="M600 316 v54" stroke="#a94418" stroke-width="8"/>
+    <!-- bed -->
+    <rect x="240" y="486" width="720" height="26" fill="#e8e2d8"/>
+    <line x1="200" y1="560" x2="1000" y2="560"/>
+  </g>
+</svg>

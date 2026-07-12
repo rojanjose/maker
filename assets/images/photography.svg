@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a camera — Photography section coming soon">
+  <rect width="1200" height="675" fill="#ece9e2"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="400" y="240" width="400" height="240" rx="18" fill="#ffffff"/>
+    <rect x="520" y="200" width="120" height="40" rx="8" fill="#ffffff"/>
+    <circle cx="600" cy="360" r="86" fill="#ffffff"/>
+    <circle cx="600" cy="360" r="52" fill="#c9dbe4"/>
+    <circle cx="622" cy="338" r="12" fill="#ffffff" stroke="none"/>
+    <circle cx="744" cy="286" r="12" fill="#a94418" stroke="none"/>
+    <line x1="340" y1="540" x2="860" y2="540"/>
+  </g>
+</svg>

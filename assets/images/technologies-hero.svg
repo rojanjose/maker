@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of three kinds of 3D printer: FDM, resin and industrial powder-bed">
+  <rect width="1200" height="675" fill="#f2ece4"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- FDM printer -->
+    <rect x="120" y="200" width="260" height="240" rx="8" fill="#ffffff"/>
+    <line x1="120" y1="242" x2="380" y2="242"/>
+    <rect x="222" y="228" width="56" height="34" rx="5" fill="#a94418" stroke="#1a1a1a"/>
+    <path d="M242 262 L258 262 L250 284 Z" fill="#1a1a1a"/>
+    <path d="M216 380 q8 -44 34 -44 q26 0 34 44 Z" fill="#c9dbe4"/>
+    <rect x="180" y="380" width="140" height="16" fill="#e8e2d8"/>
+    <rect x="100" y="440" width="300" height="44" rx="8" fill="#ffffff"/>
+    <!-- resin printer -->
+    <rect x="560" y="180" width="56" height="230" rx="8" fill="#ffffff"/>
+    <rect x="516" y="248" width="144" height="22" fill="#ffffff"/>
+    <rect x="496" y="270" width="184" height="14" fill="#1a1a1a"/>
+    <path d="M560 284 v46 q28 30 56 0 v-46" fill="#b7a6d6"/>
+    <rect x="486" y="368" width="204" height="42" rx="6" fill="#ffffff"/>
+    <path d="M496 390 h184" stroke="#a94418" stroke-width="5"/>
+    <rect x="456" y="410" width="264" height="74" rx="10" fill="#ffffff"/>
+    <!-- industrial powder-bed cabinet -->
+    <rect x="820" y="150" width="280" height="334" rx="12" fill="#ffffff"/>
+    <rect x="852" y="196" width="216" height="130" rx="8" fill="#dfe7df"/>
+    <path d="M960 196 v56" stroke="#a94418" stroke-width="5"/>
+    <path d="M946 252 h28 l-14 22 Z" fill="#a94418" stroke="none"/>
+    <path d="M866 300 h188" stroke="#c9c4bb" stroke-width="10"/>
+    <circle cx="884" cy="420" r="10" fill="#a94418" stroke="none"/>
+    <circle cx="918" cy="420" r="10" fill="#1a1a1a" stroke="none"/>
+    <line x1="80" y1="530" x2="1120" y2="530"/>
+  </g>
+</svg>

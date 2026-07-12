@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of an FDM 3D printer">
+  <rect width="1200" height="675" fill="#f2ece4"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- frame -->
+    <rect x="380" y="120" width="440" height="380" rx="8" fill="#ffffff"/>
+    <line x1="380" y1="185" x2="820" y2="185"/>
+    <!-- gantry + head -->
+    <rect x="560" y="165" width="80" height="52" rx="6" fill="#a94418" stroke="#1a1a1a"/>
+    <path d="M592 217 L608 217 L600 243 Z" fill="#1a1a1a"/>
+    <!-- print -->
+    <path d="M556 420 q10 -60 44 -60 q34 0 44 60 Z" fill="#c9dbe4"/>
+    <line x1="560" y1="400" x2="640" y2="400" stroke-width="3"/>
+    <line x1="558" y1="410" x2="642" y2="410" stroke-width="3"/>
+    <!-- bed -->
+    <rect x="480" y="420" width="240" height="22" fill="#e8e2d8"/>
+    <line x1="460" y1="500" x2="740" y2="500"/>
+    <!-- spool -->
+    <circle cx="900" cy="190" r="58" fill="#ffffff"/>
+    <circle cx="900" cy="190" r="20" fill="#f2ece4"/>
+    <path d="M900 248 q-30 90 -80 132" stroke="#a94418" stroke-width="5" stroke-dasharray="1 12"/>
+    <!-- base -->
+    <rect x="340" y="500" width="520" height="60" rx="8" fill="#ffffff"/>
+    <circle cx="800" cy="530" r="10" fill="#a94418" stroke="none"/>
+  </g>
+</svg>

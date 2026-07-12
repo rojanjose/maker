@@ -1,0 +1,56 @@
+---
+layout: default
+---
+<article class="article">
+  <p class="kicker">{% if page.section_url %}<a href="{{ page.section_url | relative_url }}">{{ page.section }}</a>{% else %}{{ page.section }}{% endif %}</p>
+  <h1>{{ page.title }}</h1>
+  <p class="subhead">{{ page.subhead }}</p>
+  <div class="byline-block">
+    <div class="byline-text">
+      By <strong>{{ page.author }}</strong> &nbsp;·&nbsp; Published {{ page.published | date: "%B %-d, %Y" }}{% if page.updated %} &nbsp;·&nbsp; <span class="updated">Updated {{ page.updated | date: "%B %-d, %Y" }}</span>{% endif %}
+    </div>
+    {% if page.audio %}
+    <div class="listen-inline">
+      <span class="listen-label">Listen to this article</span>
+      <audio controls preload="none" src="{{ page.audio | relative_url }}"></audio>
+    </div>
+    {% else %}
+    <div class="listen-inline" id="mm-listen" hidden>
+      <span class="listen-label">Listen &nbsp;·&nbsp; <span id="mm-listen-status"></span></span>
+      <button id="mm-listen-btn" type="button">▶ Listen</button>
+      <button id="mm-listen-stop" type="button" hidden>↺ Restart</button>
+    </div>
+    {% endif %}
+  </div>
+
+  {% capture hero_figure %}{% if page.hero %}<figure>
+    <img src="{{ page.hero | relative_url }}" alt="{{ page.hero_alt }}">
+    <figcaption>{{ page.hero_caption }} <span class="credit">{{ page.hero_credit }}</span></figcaption>
+  </figure>{% endif %}{% endcapture %}
+
+  {% if page.toc == false %}
+  <div class="article-body">
+    {{ hero_figure }}
+    {{ content }}
+  </div>
+  {% else %}
+  <div class="article-layout">
+    <aside class="toc" aria-label="Table of contents">
+      <h2>In this guide</h2>
+      <ol>
+        {%- assign toc_parts = content | split: '<h2 id="' -%}
+        {%- for part in toc_parts offset: 1 -%}
+        {%- assign toc_id = part | split: '"' | first -%}
+        {%- assign toc_text = part | split: '</h2>' | first | split: '>' | last -%}
+        <li><a href="#{{ toc_id }}">{{ toc_text }}</a></li>
+        {%- endfor -%}
+      </ol>
+    </aside>
+
+    <div class="article-body">
+      {{ hero_figure }}
+      {{ content }}
+    </div>
+  </div>
+  {% endif %}
+</article>

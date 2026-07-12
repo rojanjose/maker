@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }} — {{ site.tagline }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <div class="page">
+
+    <header>
+      <h1 class="brand"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <div class="masthead-meta">
+        <div class="masthead-left">
+          <div class="topbar-date" id="mm-date"></div>
+          <a class="contents-link" href="{{ '/contents.html' | relative_url }}"{% if page.nav == 'contents' %} aria-current="page"{% endif %}>Contents</a>
+        </div>
+        <p class="tagline">{{ site.tagline }}</p>
+        <div class="search">
+          <input id="mm-search" type="search" placeholder="Search guides…" autocomplete="off" aria-label="Search guides">
+          <div id="mm-search-results" class="search-results"></div>
+        </div>
+      </div>
+      <nav class="section-nav" aria-label="Sections">
+        <a href="{{ '/sections/3d-printers.html' | relative_url }}"{% if page.nav == '3d-printers' %} class="active"{% endif %}>3D Printers</a>
+        <span class="soon" title="Coming soon">Photography</span>
+        <a href="{{ '/guides/how-we-test.html' | relative_url }}"{% if page.nav == 'how-we-test' %} class="active"{% endif %}>How We Test</a>
+      </nav>
+    </header>
+
+    <main>
+{{ content }}
+    </main>
+
+    <footer class="footer">
+      <div>© 2026 Makers Manual · rojan.dev/maker</div>
+      <div><a href="{{ '/contents.html' | relative_url }}">Contents</a> · <a href="{{ '/sections/3d-printers.html' | relative_url }}">3D Printers</a> · <a href="{{ '/guides/how-we-test.html' | relative_url }}">How We Test</a></div>
+    </footer>
+
+  </div>
+
+  <script>window.MM_ROOT = "{{ '/' | relative_url }}";</script>
+  <script src="{{ '/assets/js/search-index.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/listen.js' | relative_url }}"></script>
+</body>
+</html>

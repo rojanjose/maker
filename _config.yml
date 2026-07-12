@@ -1,0 +1,12 @@
+title: Makers Manual
+tagline: Field-tested picks for people who build things
+description: Editorial buying guides for DIY enthusiasts. Starting with 3D printers.
+url: "https://rojan.dev"
+baseurl: "/maker"
+
+exclude:
+  - docs/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
