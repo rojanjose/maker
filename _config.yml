@@ -5,6 +5,7 @@ url: "https://rojan.dev"
 baseurl: "/maker"
 
 exclude:
+  - cloudflare/
   - docs/
   - README.md
   - Gemfile

@@ -87,9 +87,12 @@ on PATH). None of this is needed to deploy — GitHub Pages builds the site itse
    `rojan.dev/maker`), push this directory to `main`.
 2. Repo → Settings → Pages → Source: “Deploy from a branch”, branch `main`,
    folder `/ (root)`. GitHub Pages detects Jekyll and builds automatically.
-3. For the custom domain, `rojan.dev` must be configured as the custom domain on
-   your GitHub Pages **user site** (`rojanjose.github.io`); project sites like
-   this one then resolve under it.
+3. **rojan.dev/maker** is served by a Cloudflare Worker (`cloudflare/worker.js`)
+   that proxies `/maker/*` to the GitHub Pages site with the URL preserved, and
+   redirects all other rojan.dev paths to the GitHub user site. Deploy changes
+   with `npx wrangler deploy` from `cloudflare/` (needs `CLOUDFLARE_API_TOKEN`
+   and `CLOUDFLARE_ACCOUNT_ID`). DNS: proxied `A @ 192.0.2.1` dummy record; the
+   Worker intercepts all traffic. Mailgun MX/TXT records must be preserved.
 
 ## Placeholder content
 

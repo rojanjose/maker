@@ -1,0 +1,8 @@
+name = "maker-proxy"
+main = "worker.js"
+compatibility_date = "2026-07-01"
+
+routes = [
+  { pattern = "rojan.dev/*", zone_name = "rojan.dev" },
+  { pattern = "www.rojan.dev/*", zone_name = "rojan.dev" }
+]

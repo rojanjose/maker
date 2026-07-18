@@ -31,7 +31,7 @@ categories (e.g., CNC routers, laser cutters) over time.
 | D3 | **3D printers** is the first content category | Owner's chosen starting point |
 | D4 | Site name and masthead: **"Makers Manual"** | Confirmed by owner |
 | D5 | Stack: **Jekyll** (GitHub Pages' native generator) — articles in **Markdown**, page chrome in shared HTML layouts. *Revised 2026-07-12; supersedes the original plain-HTML/CSS choice.* | Owner wants to author articles in Markdown; Jekyll renders them through templates with zero deploy tooling (GitHub Pages builds automatically) |
-| D6 | URL: **https://rojan.dev/maker** | GitHub Pages project site served under the owner's rojan.dev custom domain |
+| D6 | URL: **https://rojan.dev/maker** | Served by a Cloudflare Worker (`cloudflare/`) that proxies `/maker/*` to the GitHub Pages site (rojanjose.github.io/maker) with the URL preserved; all other rojan.dev paths redirect to the GitHub user site, preserving the domain's prior forwarding behavior |
 | D7 | Sub-categories within a topic (e.g., FDM vs. resin) are **sections within one guide**; distinct topics (e.g., photography) get **their own site section** | One authoritative guide per topic keeps picks easy to compare |
 | D8 | Guides are **dated and periodically refreshed** to the latest products on the market | Visible dates for trust, evergreen accuracy over time |
 
