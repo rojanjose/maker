@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a printed tee with fabric swatches and a magnified view of knit loops">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- tee -->
+    <path d="M505 170 L320 230 L380 330 L455 295 L455 570 L745 570 L745 295 L820 330 L880 230 L695 170 A 95 30 0 0 1 505 170 Z" fill="#ffffff"/>
+    <path d="M505 170 a 95 30 0 0 0 190 0" />
+    <path d="M520 178 a 80 24 0 0 0 160 0" stroke-width="4"/>
+    <!-- chest print -->
+    <circle cx="600" cy="420" r="62" fill="#a94418"/>
+    <circle cx="600" cy="420" r="30" fill="#efe9df"/>
+    <!-- fabric swatches, light to heavy -->
+    <g>
+      <rect x="950" y="100" width="160" height="100" fill="#ffffff"/>
+      <g stroke-width="3"><line x1="970" y1="130" x2="1090" y2="130"/><line x1="970" y1="170" x2="1090" y2="170"/></g>
+      <rect x="950" y="240" width="160" height="100" fill="#dce8f2"/>
+      <g stroke-width="3"><line x1="970" y1="265" x2="1090" y2="265"/><line x1="970" y1="290" x2="1090" y2="290"/><line x1="970" y1="315" x2="1090" y2="315"/></g>
+      <rect x="950" y="380" width="160" height="100" fill="#c9dbe4"/>
+      <g stroke-width="3"><line x1="970" y1="398" x2="1090" y2="398"/><line x1="970" y1="418" x2="1090" y2="418"/><line x1="970" y1="438" x2="1090" y2="438"/><line x1="970" y1="458" x2="1090" y2="458"/></g>
+    </g>
+    <!-- magnifier over the knit -->
+    <circle cx="270" cy="470" r="95" fill="#ffffff"/>
+    <g stroke-width="5">
+      <path d="M200 445 q 17 -34 35 0 t 35 0 t 35 0 t 35 0"/>
+      <path d="M200 480 q 17 -34 35 0 t 35 0 t 35 0 t 35 0"/>
+      <path d="M200 515 q 17 -34 35 0 t 35 0 t 35 0 t 35 0"/>
+    </g>
+    <line x1="337" y1="537" x2="395" y2="595" stroke-width="12"/>
+    <!-- bench line -->
+    <line x1="180" y1="620" x2="1020" y2="620"/>
+  </g>
+</svg>

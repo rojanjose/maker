@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration comparing smooth ring-spun yarn with fuzzy open-end yarn">
+  <rect width="1200" height="675" fill="#e9eef2"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ring-spun: smooth, even twist -->
+    <g>
+      <ellipse cx="180" cy="240" rx="26" ry="60" fill="#ffffff" transform="rotate(-28 180 240)"/>
+      <ellipse cx="255" cy="240" rx="26" ry="60" fill="#ffffff" transform="rotate(-28 255 240)"/>
+      <ellipse cx="330" cy="240" rx="26" ry="60" fill="#ffffff" transform="rotate(-28 330 240)"/>
+      <ellipse cx="405" cy="240" rx="26" ry="60" fill="#ffffff" transform="rotate(-28 405 240)"/>
+      <ellipse cx="480" cy="240" rx="26" ry="60" fill="#ffffff" transform="rotate(-28 480 240)"/>
+      <line x1="120" y1="240" x2="146" y2="240"/>
+      <line x1="514" y1="240" x2="540" y2="240"/>
+    </g>
+    <!-- open-end: wrapped, irregular, fuzzy -->
+    <g>
+      <path d="M660 240 q 40 -42 80 -6 q 38 34 78 -8 q 40 -40 80 4 q 36 40 78 -2 q 40 -38 84 6" fill="none" stroke-width="34"/>
+      <path d="M660 240 q 40 -42 80 -6 q 38 34 78 -8 q 40 -40 80 4 q 36 40 78 -2 q 40 -38 84 6" fill="none" stroke-width="22" stroke="#ffffff"/>
+      <g stroke-width="3">
+        <line x1="700" y1="205" x2="688" y2="182"/><line x1="742" y1="248" x2="752" y2="272"/>
+        <line x1="800" y1="212" x2="794" y2="188"/><line x1="852" y1="240" x2="864" y2="262"/>
+        <line x1="906" y1="218" x2="898" y2="194"/><line x1="948" y1="252" x2="960" y2="274"/>
+        <line x1="1004" y1="214" x2="998" y2="190"/><line x1="1042" y1="246" x2="1054" y2="268"/>
+      </g>
+    </g>
+    <!-- swatch each yarn knits into -->
+    <rect x="220" y="400" width="220" height="140" fill="#ffffff"/>
+    <g stroke-width="3">
+      <line x1="245" y1="430" x2="415" y2="430"/><line x1="245" y1="460" x2="415" y2="460"/>
+      <line x1="245" y1="490" x2="415" y2="490"/><line x1="245" y1="510" x2="415" y2="510"/>
+    </g>
+    <rect x="760" y="400" width="220" height="140" fill="#c9dbe4"/>
+    <g stroke-width="3">
+      <path d="M785 435 q 12 -14 24 0 t 24 0 t 24 0 t 24 0 t 24 0 t 24 0"/>
+      <path d="M785 480 q 12 14 24 0 t 24 0 t 24 0 t 24 0 t 24 0 t 24 0"/>
+      <path d="M785 515 q 12 -14 24 0 t 24 0 t 24 0 t 24 0 t 24 0 t 24 0"/>
+    </g>
+    <line x1="150" y1="600" x2="1050" y2="600"/>
+  </g>
+</svg>

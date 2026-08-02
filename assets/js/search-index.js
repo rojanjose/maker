@@ -82,6 +82,72 @@ window.MM_SEARCH_INDEX = [
     keywords: "video watch demo print timelapse"
   },
   {
+    title: "T-Shirt Fabrics, Explained: How to Choose a Blank Worth Printing On",
+    url: "guides/tee-shirt-fabrics.html",
+    section: "Printed Tees · Chapter 1",
+    keywords: "t-shirt tee fabric blank cotton polyester blend guide printed tees apparel"
+  },
+  {
+    title: "Fibers: Cotton, Polyester and the Blends Between",
+    url: "guides/tee-shirt-fabrics.html#fibers",
+    section: "Printed Tees · In the guide",
+    keywords: "cotton ring-spun combed open-end pima supima organic polyester rayon modal tencel tri-blend 50/50 blend fiber"
+  },
+  {
+    title: "Fabric Weight: oz and GSM",
+    url: "guides/tee-shirt-fabrics.html#weight",
+    section: "Printed Tees · In the guide",
+    keywords: "weight gsm oz ounces lightweight midweight heavyweight boxy streetwear"
+  },
+  {
+    title: "Yarn Count: Singles Explained",
+    url: "guides/tee-shirt-fabrics.html#yarn",
+    section: "Printed Tees · In the guide",
+    keywords: "yarn count singles 30/1 32/1 40/1 fine soft quality"
+  },
+  {
+    title: "Knits: Jersey, Slub, Pique",
+    url: "guides/tee-shirt-fabrics.html#knit",
+    section: "Printed Tees · In the guide",
+    keywords: "knit jersey slub pique french terry fleece construction"
+  },
+  {
+    title: "Construction: Side-Seamed vs. Tubular",
+    url: "guides/tee-shirt-fabrics.html#construction",
+    section: "Printed Tees · In the guide",
+    keywords: "side-seamed tubular collar taping double-needle hem garment-dyed pre-shrunk shrinkage finishing"
+  },
+  {
+    title: "Fabric vs. Print Method Compatibility",
+    url: "guides/tee-shirt-fabrics.html#printing",
+    section: "Printed Tees · In the guide",
+    keywords: "screen printing dtg dtf sublimation htv vinyl print method compatibility ink"
+  },
+  {
+    title: "Dye Migration: The Beginner Trap",
+    url: "guides/tee-shirt-fabrics.html#dye-migration",
+    section: "Printed Tees · In the guide",
+    keywords: "dye migration polyester bleed low-bleed ink underbase poly-blocker cure temperature"
+  },
+  {
+    title: "Blank Brands and Wholesale Suppliers",
+    url: "guides/tee-shirt-fabrics.html#brands",
+    section: "Printed Tees · In the guide",
+    keywords: "gildan softstyle bella canvas next level tultex comfort colors as colour los angeles apparel shaka cotton heritage s&s sanmar alphabroder tsc jiffy shirts wholesale supplier blank brands"
+  },
+  {
+    title: "The Five-Wash Sample Test",
+    url: "guides/tee-shirt-fabrics.html#five-wash",
+    section: "Printed Tees · In the guide",
+    keywords: "sample pack wash test shrinkage collar recovery pilling fade compare blanks"
+  },
+  {
+    title: "Glossary: T-Shirt Fabric Terms",
+    url: "guides/tee-shirt-fabrics.html#glossary",
+    section: "Printed Tees · In the guide",
+    keywords: "glossary blank ring-spun combed singles gsm slub tubular dye migration underbase hand-feel"
+  },
+  {
     title: "How We Test",
     url: "guides/how-we-test.html",
     section: "Makers Manual · Methodology",
@@ -92,5 +158,11 @@ window.MM_SEARCH_INDEX = [
     url: "sections/3d-printers.html",
     section: "Section",
     keywords: "3d printers section all guides topic"
+  },
+  {
+    title: "Printed Tee Shirts — Section Front",
+    url: "sections/printed-tees.html",
+    section: "Section",
+    keywords: "printed tees t-shirts tee shirts section all guides apparel printing"
   }
 ];

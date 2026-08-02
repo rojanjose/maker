@@ -254,6 +254,8 @@ figcaption .credit { color: #999; }
 
 .story-list h2 { font-size: 1.5rem; line-height: 1.2; margin-bottom: 0.35rem; }
 .story-list .summary { color: #333; max-width: var(--measure); margin-bottom: 0.5rem; }
+.story-list .story.soon h2,
+.story-list .story.soon .summary { color: #b0b0b0; }
 
 /* ---------- Contents page (manual-style ToC) ---------- */
 
