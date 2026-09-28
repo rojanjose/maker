@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a filled mason jar beside a pressure canner with a dial gauge and steam">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- large mason jar -->
+    <rect x="310" y="186" width="180" height="48" rx="10" fill="#c9dbe4"/>
+    <path d="M330 234 L330 272 Q295 295 295 330 L295 533 Q295 565 327 565 L473 565 Q505 565 505 533 L505 330 Q505 295 470 272 L470 234 Z" fill="#ffffff"/>
+    <path d="M307 340 L307 533 Q307 553 327 553 L473 553 Q493 553 493 533 L493 340 Z" fill="#a94418" stroke-width="4"/>
+    <circle cx="360" cy="420" r="22" fill="#efe9df" stroke-width="4"/>
+    <circle cx="432" cy="482" r="26" fill="#efe9df" stroke-width="4"/>
+    <circle cx="452" cy="392" r="17" fill="#efe9df" stroke-width="4"/>
+    <g stroke-width="4"><line x1="338" y1="248" x2="462" y2="248"/><line x1="338" y1="260" x2="462" y2="260"/></g>
+    <!-- small jam jar -->
+    <rect x="568" y="436" width="104" height="30" rx="8" fill="#c9dbe4"/>
+    <path d="M578 466 L578 480 Q560 492 560 510 L560 542 Q560 565 583 565 L637 565 Q660 565 660 542 L660 510 Q660 492 642 480 L642 466 Z" fill="#ffffff"/>
+    <path d="M570 502 L570 542 Q570 555 583 555 L637 555 Q650 555 650 542 L650 502 Z" fill="#a94418" stroke-width="4"/>
+    <!-- pressure canner -->
+    <rect x="720" y="334" width="300" height="231" rx="16" fill="#dce8f2"/>
+    <rect x="705" y="292" width="330" height="42" rx="14" fill="#ffffff"/>
+    <line x1="688" y1="400" x2="720" y2="400" stroke-width="10"/>
+    <line x1="1020" y1="400" x2="1052" y2="400" stroke-width="10"/>
+    <!-- dial gauge -->
+    <line x1="830" y1="292" x2="830" y2="272"/>
+    <circle cx="830" cy="232" r="40" fill="#ffffff"/>
+    <line x1="830" y1="232" x2="856" y2="208" stroke-width="5"/>
+    <circle cx="830" cy="232" r="4" fill="#1a1a1a" stroke="none"/>
+    <!-- vent weight and steam -->
+    <line x1="948" y1="292" x2="948" y2="274"/>
+    <rect x="933" y="242" width="30" height="32" rx="6" fill="#a94418"/>
+    <g stroke-width="5">
+      <path d="M948 230 q -14 -22 0 -44 q 14 -22 0 -44"/>
+      <path d="M985 214 q -12 -19 0 -38 q 12 -19 0 -38"/>
+    </g>
+    <!-- bench line -->
+    <line x1="180" y1="620" x2="1020" y2="620"/>
+  </g>
+</svg>

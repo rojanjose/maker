@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a mini PC on a bench wired to a globe, with a phone connecting back through a padlocked dashed tunnel">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- mini pc -->
+    <rect x="210" y="440" width="250" height="180" rx="24" fill="#ffffff"/>
+    <circle cx="266" cy="494" r="14" fill="#a94418"/>
+    <rect x="336" y="482" width="46" height="16" rx="4" fill="#c9dbe4" stroke-width="4"/>
+    <rect x="336" y="514" width="46" height="16" rx="4" fill="#c9dbe4" stroke-width="4"/>
+    <line x1="248" y1="586" x2="422" y2="586" stroke-width="4"/>
+    <!-- ethernet cable from box to globe -->
+    <path d="M460 500 C 580 500 600 390 668 338"/>
+    <!-- globe -->
+    <circle cx="770" cy="270" r="115" fill="#c9dbe4"/>
+    <ellipse cx="770" cy="270" rx="52" ry="115" stroke-width="4"/>
+    <line x1="655" y1="270" x2="885" y2="270" stroke-width="4"/>
+    <path d="M672 210 Q 770 242 868 210" stroke-width="4"/>
+    <path d="M672 330 Q 770 298 868 330" stroke-width="4"/>
+    <!-- phone standing on the bench -->
+    <rect x="950" y="470" width="85" height="150" rx="14" fill="#ffffff"/>
+    <line x1="975" y1="595" x2="1010" y2="595" stroke-width="4"/>
+    <!-- dashed vpn tunnel from phone back to the globe -->
+    <path d="M985 460 C 960 395 915 345 872 312" stroke-dasharray="2 16"/>
+    <!-- padlock riding the tunnel -->
+    <path d="M896 362 a18 18 0 0 1 36 0" stroke-width="5"/>
+    <rect x="886" y="362" width="56" height="44" rx="8" fill="#a94418" stroke-width="5"/>
+    <!-- bench line -->
+    <line x1="170" y1="620" x2="1030" y2="620"/>
+  </g>
+</svg>

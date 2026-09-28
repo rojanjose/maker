@@ -148,6 +148,204 @@ window.MM_SEARCH_INDEX = [
     keywords: "glossary blank ring-spun combed singles gsm slub tubular dye migration underbase hand-feel"
   },
   {
+    title: "Home Canning, Explained: Water Bath, Pressure and the Acidity Line Between Them",
+    url: "guides/canning-explained.html",
+    section: "Home Canning · Chapter 1",
+    keywords: "canning home canning explained preserve preserving jars water bath pressure introduction start here food preservation"
+  },
+  {
+    title: "What a Sealed Jar Actually Does",
+    url: "guides/canning-explained.html#how-it-works",
+    section: "Home Canning · In the guide",
+    keywords: "vacuum seal heat kill microorganisms spores headspace how canning works shelf stable"
+  },
+  {
+    title: "The Acidity Line: pH 4.6",
+    url: "guides/canning-explained.html#acidity",
+    section: "Home Canning · In the guide",
+    keywords: "acidity ph 4.6 high-acid low-acid tomatoes lemon juice citric acid pickles vinegar which method fruits vegetables"
+  },
+  {
+    title: "Water-Bath Canning: The Gateway",
+    url: "guides/canning-explained.html#water-bath",
+    section: "Home Canning · In the guide",
+    keywords: "water bath boiling water canner steam canner stockpot rack jam pickles beginner high-acid 212"
+  },
+  {
+    title: "Pressure Canning: The Low-Acid Tier",
+    url: "guides/canning-explained.html#pressure",
+    section: "Home Canning · In the guide",
+    keywords: "pressure canner psi 240 weighted gauge dial gauge instant pot multi-cooker vegetables meat stock low-acid"
+  },
+  {
+    title: "Botulism, Plainly",
+    url: "guides/canning-explained.html#botulism",
+    section: "Home Canning · In the guide",
+    keywords: "botulism clostridium botulinum toxin spores safety risk unsafe why pressure"
+  },
+  {
+    title: "Tested Recipes Only",
+    url: "guides/canning-explained.html#tested-recipes",
+    section: "Home Canning · In the guide",
+    keywords: "tested recipes nchfp usda complete guide ball blue book extension open-kettle oven canning paraffin unsafe methods sources"
+  },
+  {
+    title: "Altitude Adjustments for Canning",
+    url: "guides/canning-explained.html#altitude",
+    section: "Home Canning · In the guide",
+    keywords: "altitude elevation adjustment boiling point add minutes pounds pressure high altitude"
+  },
+  {
+    title: "Your First Canning Batch",
+    url: "guides/canning-explained.html#first-batch",
+    section: "Home Canning · In the guide",
+    keywords: "first batch jam beginner workflow headspace lid ping seal check finger-tight"
+  },
+  {
+    title: "Glossary: Canning Terms",
+    url: "guides/canning-explained.html#glossary",
+    section: "Home Canning · In the guide",
+    keywords: "glossary terms headspace two-piece lid hot pack raw pack processing time venting siphoning gauge"
+  },
+  {
+    title: "Canning in Metal: Fish and Meat in Tin Cans, from Seamer to Shelf",
+    url: "guides/canning-in-tins.html",
+    section: "Home Canning · Chapter 5",
+    keywords: "tin cans metal canning fish meat salmon tuna venison seamer sealer alaska canned fish canned meat containers"
+  },
+  {
+    title: "The Can Sealer, Cans and Linings",
+    url: "guides/canning-in-tins.html#gear",
+    section: "Home Canning · In the guide",
+    keywords: "can sealer seamer half-pound flat one-pound tall no. 2 c-enamel r-enamel plain tin lining wells can"
+  },
+  {
+    title: "Exhausting Cans Before Seaming",
+    url: "guides/canning-in-tins.html#exhausting",
+    section: "Home Canning · In the guide",
+    keywords: "exhausting exhaust 170 vacuum air center temperature thermometer before sealing"
+  },
+  {
+    title: "The Double Seam and Seam Testing",
+    url: "guides/canning-in-tins.html#seam",
+    section: "Home Canning · In the guide",
+    keywords: "double seam roller hook flange sealing compound water test bubbles wrinkle droop seam check"
+  },
+  {
+    title: "Fish: The Salmon Workflow",
+    url: "guides/canning-in-tins.html#fish",
+    section: "Home Canning · In the guide",
+    keywords: "salmon tuna fish canned skin bones no added liquid precooked smoked pacific alaska"
+  },
+  {
+    title: "Meat in Tin Cans",
+    url: "guides/canning-in-tins.html#meat",
+    section: "Home Canning · In the guide",
+    keywords: "meat venison beef game poultry raw pack hot pack trim fat broth no thickeners"
+  },
+  {
+    title: "Tin Can Storage, Inspection and the Boil Rule",
+    url: "guides/canning-in-tins.html#storage",
+    section: "Home Canning · In the guide",
+    keywords: "storage swell bulge rust leak discard when in doubt throw it out boil ten minutes inspection"
+  },
+  {
+    title: "The Home Server, Explained: A Mini PC, Your Own Domain and a VPN Back to the House",
+    url: "guides/home-server-vpn.html",
+    section: "Home IT Infrastructure · Chapter 1",
+    keywords: "home server mini pc gmktec ubuntu linux self-hosting website vpn wireguard tailscale docker domain remote access homelab"
+  },
+  {
+    title: "Public IP or CGNAT: What Your ISP Gave You",
+    url: "guides/home-server-vpn.html#public-ip",
+    section: "Home IT · In the guide",
+    keywords: "cgnat carrier-grade nat public ip address wan whatismyip 100.64 port forwarding isp check"
+  },
+  {
+    title: "Ubuntu Server: The Install Hour",
+    url: "guides/home-server-vpn.html#ubuntu",
+    section: "Home IT · In the guide",
+    keywords: "ubuntu server lts install usb flash iso openssh headless dhcp reservation bios restore power"
+  },
+  {
+    title: "First-Hour Server Hardening",
+    url: "guides/home-server-vpn.html#hardening",
+    section: "Home IT · In the guide",
+    keywords: "hardening ssh keys password authentication ufw firewall unattended-upgrades security updates"
+  },
+  {
+    title: "The VPN: Tailscale and WireGuard",
+    url: "guides/home-server-vpn.html#vpn",
+    section: "Home IT · In the guide",
+    keywords: "vpn tailscale wireguard subnet router exit node tailnet mesh remote access wg-easy connect from anywhere"
+  },
+  {
+    title: "Pointing a Domain at a Home Server",
+    url: "guides/home-server-vpn.html#domain",
+    section: "Home IT · In the guide",
+    keywords: "domain dns cloudflare nameservers registrar subdomain https certificates family domain"
+  },
+  {
+    title: "Docker, Caddy and the Cloudflare Tunnel",
+    url: "guides/home-server-vpn.html#web",
+    section: "Home IT · In the guide",
+    keywords: "docker compose caddy cloudflared cloudflare tunnel zero trust public hostname web server https serve website"
+  },
+  {
+    title: "Tunnel vs. Port Forwarding",
+    url: "guides/home-server-vpn.html#exposure",
+    section: "Home IT · In the guide",
+    keywords: "tunnel port forwarding ddns dynamic dns compare exposure open ports 80 443 self-hosted"
+  },
+  {
+    title: "Backups, Updates and the Travel Test",
+    url: "guides/home-server-vpn.html#care",
+    section: "Home IT · In the guide",
+    keywords: "backups restic backblaze b2 ups maintenance travel test cellular monitoring"
+  },
+  {
+    title: "Glossary: Home Server Terms",
+    url: "guides/home-server-vpn.html#glossary",
+    section: "Home IT · In the guide",
+    keywords: "glossary headless cgnat container reverse proxy tunnel tailnet subnet router exit node ddns"
+  },
+  {
+    title: "Field Notes: What Actually Happened When We Built the Home Server",
+    url: "guides/home-server-field-notes.html",
+    section: "Home IT Infrastructure · Field Notes",
+    keywords: "field notes build log home server hestia real build snags gotchas lessons diary companion"
+  },
+  {
+    title: "The Locked SD Card and the Slow Flash",
+    url: "guides/home-server-field-notes.html#flash",
+    section: "Home IT · In the field notes",
+    keywords: "sd card locked write protect tab etcher slow flash class 4 usb reader boot media"
+  },
+  {
+    title: "The Reboot Race and the Ghost Hostname",
+    url: "guides/home-server-field-notes.html#reboot-race",
+    section: "Home IT · In the field notes",
+    keywords: "no route to host reboot ssh stale lease hostname mac address arp nucbox ghost"
+  },
+  {
+    title: "DHCP Reservation on Google Fiber",
+    url: "guides/home-server-field-notes.html#router",
+    section: "Home IT · In the field notes",
+    keywords: "google fiber router reserved ip dhcp reservation portal devices epoch 1969 dmz port forwarding"
+  },
+  {
+    title: "The Tailnet Firewall Rule the Guide Forgot",
+    url: "guides/home-server-field-notes.html#vpn-live",
+    section: "Home IT · In the field notes",
+    keywords: "ufw tailscale0 firewall vpn ssh locked out key expiry direct connection amendment"
+  },
+  {
+    title: "Split Tunnel vs. Exit Node, Live",
+    url: "guides/home-server-field-notes.html#split-tunnel",
+    section: "Home IT · In the field notes",
+    keywords: "split tunnel exit node whatismyip carrier ip hotspot browse as home vpn full tunnel"
+  },
+  {
     title: "How We Test",
     url: "guides/how-we-test.html",
     section: "Makers Manual · Methodology",
@@ -164,5 +362,17 @@ window.MM_SEARCH_INDEX = [
     url: "sections/printed-tees.html",
     section: "Section",
     keywords: "printed tees t-shirts tee shirts section all guides apparel printing"
+  },
+  {
+    title: "Home Canning — Section Front",
+    url: "sections/home-canning.html",
+    section: "Section",
+    keywords: "home canning section all guides preserving jars food preservation mason"
+  },
+  {
+    title: "Home IT Infrastructure — Section Front",
+    url: "sections/home-it.html",
+    section: "Section",
+    keywords: "home it infrastructure section all guides server network self-hosting homelab"
   }
 ];

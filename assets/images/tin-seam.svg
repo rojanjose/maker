@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a tin can with a magnified cross-section of the double seam, showing the lid hook and body hook rolled together">
+  <rect width="1200" height="675" fill="#f2ece0"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- whole can, seam circled -->
+    <path d="M200 390 L200 545 A85 22 0 0 0 370 545 L370 390" fill="#ffffff"/>
+    <ellipse cx="285" cy="390" rx="85" ry="22" fill="#dce8f2"/>
+    <circle cx="370" cy="390" r="42" fill="none"/>
+    <!-- zoom connectors -->
+    <line x1="402" y1="364" x2="605" y2="255" stroke-width="3"/>
+    <line x1="402" y1="416" x2="605" y2="545" stroke-width="3"/>
+    <!-- magnified double seam, loosened: body hook (dark) and lid hook (orange) interlocked -->
+    <circle cx="770" cy="395" r="215" fill="#ffffff"/>
+    <path d="M700 560 L700 330 Q700 280 750 280 Q795 280 795 325 L795 415" stroke-width="12"/>
+    <path d="M645 240 L760 240 Q840 240 840 320 L840 470 Q840 520 790 520 Q745 520 745 475 L745 390" stroke="#a94418" stroke-width="12"/>
+  </g>
+</svg>

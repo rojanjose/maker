@@ -420,6 +420,29 @@ figcaption .credit { color: #999; }
 .article li { margin-bottom: 0.35rem; }
 .article a { color: var(--link); }
 
+/* Terminal commands and config listings (Home IT chapters) */
+.article pre {
+  background: var(--paper-tint);
+  border: 1px solid var(--rule);
+  padding: 0.8rem 1rem;
+  margin: 0 0 0.9rem;
+  overflow-x: auto;
+  line-height: 1.55;
+}
+
+.article pre code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.8rem;
+}
+
+.article p code, .article li code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.82em;
+  background: var(--paper-tint);
+  border: 1px solid var(--rule);
+  padding: 0.05em 0.3em;
+}
+
 /* Table of contents */
 
 .toc {

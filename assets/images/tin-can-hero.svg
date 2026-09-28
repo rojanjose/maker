@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a fish beside an open tin can and a stack of sealed cans">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- fish -->
+    <path d="M185 430 Q 290 350 420 415 L 470 392 L 470 470 L 420 447 Q 290 505 185 430 Z" fill="#c9dbe4"/>
+    <path d="M262 396 Q 250 430 262 462" stroke-width="4"/>
+    <circle cx="228" cy="418" r="6" fill="#1a1a1a" stroke="none"/>
+    <!-- open can with fill -->
+    <path d="M640 355 L640 540 A80 22 0 0 0 800 540 L800 355" fill="#ffffff"/>
+    <ellipse cx="720" cy="355" rx="80" ry="22" fill="#a94418"/>
+    <path d="M643 395 A80 22 0 0 0 797 395" stroke-width="3"/>
+    <path d="M643 505 A80 22 0 0 0 797 505" stroke-width="3"/>
+    <!-- stacked sealed cans -->
+    <path d="M860 478 L860 542 A75 20 0 0 0 1010 542 L1010 478" fill="#ffffff"/>
+    <ellipse cx="935" cy="478" rx="75" ry="20" fill="#dce8f2"/>
+    <path d="M860 372 L860 452 A75 20 0 0 0 1010 452 L1010 372" fill="#ffffff"/>
+    <rect x="860" y="398" width="150" height="34" fill="#a94418" stroke-width="4"/>
+    <ellipse cx="935" cy="372" rx="75" ry="20" fill="#dce8f2"/>
+    <!-- bench line -->
+    <line x1="180" y1="620" x2="1020" y2="620"/>
+  </g>
+</svg>

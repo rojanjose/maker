@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Diagram of a house containing a server and router, a cloud relaying solid lines to a visitor's laptop, and a phone reaching the house directly over a dashed padlocked line">
+  <rect width="1200" height="560" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- house -->
+    <path d="M140 310 L260 200 L380 310 L380 500 L140 500 Z" fill="#ffffff"/>
+    <!-- server box inside -->
+    <rect x="172" y="396" width="86" height="70" rx="10" fill="#c9dbe4" stroke-width="5"/>
+    <circle cx="196" cy="420" r="7" fill="#a94418" stroke="none"/>
+    <!-- router inside, with antennas -->
+    <rect x="292" y="420" width="64" height="42" rx="8" fill="#ffffff" stroke-width="5"/>
+    <line x1="306" y1="420" x2="306" y2="386" stroke-width="4"/>
+    <line x1="342" y1="420" x2="342" y2="386" stroke-width="4"/>
+    <line x1="258" y1="438" x2="292" y2="438" stroke-width="4"/>
+    <!-- cloud relay -->
+    <path d="M545 235 C 495 235 485 170 545 158 C 548 112 622 96 658 122 C 686 92 758 104 760 152 C 818 154 812 232 762 235 Z" fill="#dce8f2"/>
+    <!-- visitor laptop, upper right -->
+    <rect x="960" y="112" width="140" height="92" rx="10" fill="#ffffff"/>
+    <path d="M938 204 L1122 204 L1144 228 L916 228 Z" fill="#c9dbe4" stroke-width="5"/>
+    <!-- solid public path: laptop -> cloud -> router -->
+    <path d="M938 172 C 860 180 820 190 766 196" stroke="#a94418"/>
+    <path d="M542 216 C 470 260 400 330 344 414" stroke="#a94418"/>
+    <!-- owner phone, lower right -->
+    <rect x="1002" y="372" width="72" height="134" rx="12" fill="#ffffff"/>
+    <line x1="1022" y1="484" x2="1054" y2="484" stroke-width="4"/>
+    <!-- dashed vpn path: phone -> house, under the cloud -->
+    <path d="M1000 442 C 820 496 560 486 388 446" stroke-dasharray="2 16"/>
+    <!-- padlock riding the vpn path -->
+    <path d="M676 442 a15 15 0 0 1 30 0" stroke-width="5"/>
+    <rect x="668" y="442" width="46" height="38" rx="7" fill="#a94418" stroke-width="5"/>
+  </g>
+</svg>
