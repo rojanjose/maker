@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of an open injection mold with a molded part between its halves and a hopper of plastic pellets above">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ejected part on the bench -->
+    <path d="M100 480 L106 552 Q107 565 119 565 L157 565 Q169 565 170 552 L176 480 Z" fill="#a94418"/>
+    <!-- left mold half with cavity notch -->
+    <rect x="225" y="295" width="180" height="250" rx="10" fill="#dce8f2"/>
+    <path d="M405 385 L370 385 Q350 385 350 405 L350 510 Q350 530 370 530 L405 530" fill="#efe9df" stroke-width="5"/>
+    <!-- right mold half with core -->
+    <rect x="475" y="295" width="180" height="250" rx="10" fill="#dce8f2"/>
+    <rect x="443" y="405" width="32" height="105" rx="6" fill="#dce8f2" stroke-width="5"/>
+    <!-- barrel and nozzle -->
+    <path d="M690 405 L655 422 L690 439 Z" fill="#ffffff"/>
+    <rect x="690" y="390" width="300" height="64" rx="12" fill="#ffffff"/>
+    <g stroke-width="4">
+      <line x1="726" y1="398" x2="756" y2="446"/>
+      <line x1="786" y1="398" x2="816" y2="446"/>
+      <line x1="846" y1="398" x2="876" y2="446"/>
+      <line x1="906" y1="398" x2="936" y2="446"/>
+    </g>
+    <!-- hopper feeding the barrel -->
+    <rect x="838" y="258" width="34" height="132" fill="#ffffff"/>
+    <path d="M790 160 L920 160 L885 258 L825 258 Z" fill="#c9dbe4"/>
+    <g stroke="none" fill="#a94418">
+      <circle cx="832" cy="196" r="6"/>
+      <circle cx="856" cy="212" r="6"/>
+      <circle cx="880" cy="192" r="6"/>
+      <circle cx="846" cy="236" r="6"/>
+      <circle cx="870" cy="238" r="6"/>
+      <circle cx="855" cy="120" r="6"/>
+      <circle cx="886" cy="96" r="6"/>
+    </g>
+    <!-- bench line -->
+    <line x1="90" y1="620" x2="1060" y2="620"/>
+  </g>
+</svg>

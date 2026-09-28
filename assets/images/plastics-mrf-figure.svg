@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Illustration of a materials recovery facility line — conveyor from a tipping pile through a screen and an optical sorter with air jets, ending at a stacked bale">
+  <rect width="1200" height="560" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- tipping pile -->
+    <path d="M140 540 Q150 480 200 470 Q230 440 270 456 Q310 448 318 490 Q330 520 320 540 Z" fill="#dce8f2"/>
+    <rect x="196" y="486" width="44" height="34" rx="6" fill="#ffffff" stroke-width="4"/>
+    <circle cx="272" cy="506" r="16" fill="#ffffff" stroke-width="4"/>
+    <!-- inclined conveyor -->
+    <path d="M330 500 L560 330 L560 360 L344 520 Z" fill="#ffffff"/>
+    <!-- star screen discs -->
+    <g stroke-width="4">
+      <circle cx="600" cy="392" r="15" fill="#c9dbe4"/>
+      <line x1="588" y1="380" x2="612" y2="404"/>
+      <line x1="612" y1="380" x2="588" y2="404"/>
+      <circle cx="650" cy="392" r="15" fill="#c9dbe4"/>
+      <line x1="638" y1="380" x2="662" y2="404"/>
+      <line x1="662" y1="380" x2="638" y2="404"/>
+      <circle cx="700" cy="392" r="15" fill="#c9dbe4"/>
+      <line x1="688" y1="380" x2="712" y2="404"/>
+      <line x1="712" y1="380" x2="688" y2="404"/>
+    </g>
+    <!-- horizontal belt -->
+    <rect x="560" y="330" width="340" height="28" rx="14" fill="#ffffff"/>
+    <!-- bottle riding the belt -->
+    <rect x="614" y="252" width="24" height="14" rx="4" fill="#a94418" stroke-width="4"/>
+    <path d="M619 266 L619 276 Q604 288 604 304 L604 316 Q604 330 618 330 L634 330 Q648 330 648 316 L648 304 Q648 288 633 276 L633 266 Z" fill="#ffffff" stroke-width="5"/>
+    <!-- optical sorter with scan beams and air jet -->
+    <rect x="716" y="180" width="110" height="76" rx="10" fill="#c9dbe4"/>
+    <g stroke-width="3" stroke-dasharray="2 10">
+      <line x1="746" y1="256" x2="736" y2="330"/>
+      <line x1="796" y1="256" x2="806" y2="330"/>
+    </g>
+    <!-- puffed item flying to the bunker -->
+    <path d="M856 300 q14 -34 44 -44" stroke-width="4"/>
+    <path d="M876 316 q14 -30 40 -40" stroke-width="4"/>
+    <path d="M912 232 L918 262 Q919 268 926 268 L954 268 Q961 268 962 262 L968 232 Z" fill="#dce8f2" stroke-width="5"/>
+    <!-- bale on the ground -->
+    <rect x="1000" y="420" width="150" height="120" rx="8" fill="#dce8f2"/>
+    <line x1="1042" y1="420" x2="1042" y2="540" stroke-width="4"/>
+    <line x1="1108" y1="420" x2="1108" y2="540" stroke-width="4"/>
+    <!-- belt legs and ground -->
+    <line x1="640" y1="358" x2="640" y2="540" stroke-width="8"/>
+    <line x1="850" y1="358" x2="850" y2="540" stroke-width="8"/>
+    <line x1="120" y1="540" x2="1160" y2="540"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a lineup of household plastics — a clear bottle, a milk jug, a food tub and a draped film bag">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- PET bottle -->
+    <rect x="243" y="148" width="54" height="28" rx="7" fill="#a94418"/>
+    <path d="M254 176 L254 198 Q222 230 222 268 L222 532 Q222 565 255 565 L285 565 Q318 565 318 532 L318 268 Q318 230 286 198 L286 176 Z" fill="#ffffff"/>
+    <rect x="222" y="352" width="96" height="88" fill="#c9dbe4" stroke-width="4"/>
+    <!-- HDPE milk jug -->
+    <rect x="452" y="210" width="60" height="28" rx="7" fill="#c9dbe4"/>
+    <path d="M462 238 L462 264 Q408 284 408 326 L408 534 Q408 565 440 565 L556 565 Q588 565 588 534 L588 318 Q588 282 540 270 L502 260 L502 238 Z" fill="#ffffff"/>
+    <ellipse cx="548" cy="352" rx="16" ry="30" fill="#efe9df" stroke-width="4"/>
+    <line x1="424" y1="440" x2="572" y2="440" stroke-width="3"/>
+    <!-- PP food tub -->
+    <rect x="648" y="396" width="184" height="28" rx="9" fill="#a94418"/>
+    <path d="M664 424 L680 548 Q682 565 700 565 L780 565 Q798 565 800 548 L816 424 Z" fill="#ffffff"/>
+    <line x1="672" y1="472" x2="808" y2="472" stroke-width="3"/>
+    <!-- LDPE film bag -->
+    <path d="M876 356 L876 538 Q876 565 902 565 L1014 565 Q1040 565 1040 538 L1040 356 Q1040 338 1022 338 L894 338 Q876 338 876 356 Z" fill="#dce8f2"/>
+    <path d="M912 338 Q912 292 938 292 Q958 292 958 338"/>
+    <path d="M958 338 Q958 292 984 292 Q1004 292 1004 338"/>
+    <path d="M906 430 q28 16 56 0" stroke-width="3"/>
+    <path d="M950 480 q28 16 56 0" stroke-width="3"/>
+    <!-- resin-code triangles under each item -->
+    <g stroke-width="4">
+      <path d="M255 608 L270 584 L285 608 Z"/>
+      <path d="M483 608 L498 584 L513 608 Z"/>
+      <path d="M725 608 L740 584 L755 608 Z"/>
+      <path d="M943 608 L958 584 L973 608 Z"/>
+    </g>
+    <!-- bench line -->
+    <line x1="160" y1="620" x2="1060" y2="620"/>
+  </g>
+</svg>

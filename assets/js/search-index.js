@@ -346,6 +346,258 @@ window.MM_SEARCH_INDEX = [
     keywords: "split tunnel exit node whatismyip carrier ip hotspot browse as home vpn full tunnel"
   },
   {
+    title: "Household Plastics, Explained: The Seven Codes and the Six Polymers That Run Your Home",
+    url: "guides/plastics-explained.html",
+    section: "Plastics · Chapter 1",
+    keywords: "plastics explained polymers household resin codes types of plastic introduction start here thermoplastic thermoset"
+  },
+  {
+    title: "The Seven Resin Identification Codes",
+    url: "guides/plastics-explained.html#codes",
+    section: "Plastics · In the guide",
+    keywords: "resin identification code triangle chasing arrows numbers 1 2 3 4 5 6 7 recycling symbol what does the number mean"
+  },
+  {
+    title: "PET (#1): Bottles and Clamshells",
+    url: "guides/plastics-explained.html#pet",
+    section: "Plastics · In the guide",
+    keywords: "pet polyethylene terephthalate soda water bottle clamshell polyester clear plastic number 1"
+  },
+  {
+    title: "HDPE (#2): Jugs, Buckets and Boards",
+    url: "guides/plastics-explained.html#hdpe",
+    section: "Plastics · In the guide",
+    keywords: "hdpe high density polyethylene milk jug detergent bucket cutting board tough number 2"
+  },
+  {
+    title: "PVC (#3): The One to Keep from Food",
+    url: "guides/plastics-explained.html#pvc",
+    section: "Plastics · In the guide",
+    keywords: "pvc vinyl polyvinyl chloride pipe shower curtain plasticizer chlorine number 3"
+  },
+  {
+    title: "PP (#5): The Microwave-Safe One",
+    url: "guides/plastics-explained.html#pp",
+    section: "Plastics · In the guide",
+    keywords: "pp polypropylene yogurt tub bottle cap microwave safe living hinge food container number 5 heat"
+  },
+  {
+    title: "PS (#6): Foam and Disposables",
+    url: "guides/plastics-explained.html#ps",
+    section: "Plastics · In the guide",
+    keywords: "ps polystyrene styrofoam foam cup disposable cutlery brittle eps number 6"
+  },
+  {
+    title: "Identifying Plastic Without the Code",
+    url: "guides/plastics-explained.html#identify",
+    section: "Plastics · In the guide",
+    keywords: "identify plastic flex test float test feel sound which plastic is this no symbol unmarked"
+  },
+  {
+    title: "Plastic Properties: The Master Table",
+    url: "guides/plastics-explained.html#properties",
+    section: "Plastics · In the guide",
+    keywords: "properties table service temperature microwave dishwasher freezer safe comparison which plastic"
+  },
+  {
+    title: "Glossary: Plastics Terms",
+    url: "guides/plastics-explained.html#glossary",
+    section: "Plastics · In the guide",
+    keywords: "glossary polymer monomer thermoplastic thermoset resin plasticizer copolymer living hinge terms"
+  },
+  {
+    title: "How Plastic Things Get Made: Five Processes Behind Everything in Your House",
+    url: "guides/plastics-manufacturing.html",
+    section: "Plastics · Chapter 2",
+    keywords: "manufacturing how plastic is made molding processes factory pellet to product quality"
+  },
+  {
+    title: "Injection Molding",
+    url: "guides/plastics-manufacturing.html#injection",
+    section: "Plastics · In the guide",
+    keywords: "injection molding mold tooling gate mark ejector pin parting line caps toys housings how are plastic parts made"
+  },
+  {
+    title: "Blow Molding: How Bottles Are Made",
+    url: "guides/plastics-manufacturing.html#blow",
+    section: "Plastics · In the guide",
+    keywords: "blow molding bottle jug preform stretch pinch-off seam gate nub how are bottles made"
+  },
+  {
+    title: "Extrusion, Films and Bags",
+    url: "guides/plastics-manufacturing.html#extrusion",
+    section: "Plastics · In the guide",
+    keywords: "extrusion pipe siding profile blown film bags plastic bag how are bags made die"
+  },
+  {
+    title: "Thermoforming: Cups and Clamshells",
+    url: "guides/plastics-manufacturing.html#thermoforming",
+    section: "Plastics · In the guide",
+    keywords: "thermoforming yogurt cup clamshell blister pack thin walls form fill seal packaging"
+  },
+  {
+    title: "Rotomolding: Coolers and Kayaks",
+    url: "guides/plastics-manufacturing.html#rotomolding",
+    section: "Plastics · In the guide",
+    keywords: "rotomolding rotational molding cooler kayak tank seamless hollow premium"
+  },
+  {
+    title: "Reading Quality off the Manufacturing",
+    url: "guides/plastics-manufacturing.html#quality-tells",
+    section: "Plastics · In the guide",
+    keywords: "quality tells sink marks flash short shot weld line regrind wall thickness defects cheap plastic"
+  },
+  {
+    title: "Glossary: Manufacturing Terms",
+    url: "guides/plastics-manufacturing.html#glossary",
+    section: "Plastics · In the guide",
+    keywords: "glossary mold tooling gate ejector preform pinch-off die blown film regrind flash terms"
+  },
+  {
+    title: "The Field Guide: What's Made of What, Plastic by Plastic",
+    url: "guides/plastics-field-guide.html",
+    section: "Plastics · Chapter 3",
+    keywords: "field guide products by plastic type what is it made of buying guide quality household products"
+  },
+  {
+    title: "PP Products: Containers, Caps and Kitchenware",
+    url: "guides/plastics-field-guide.html#pp-products",
+    section: "Plastics · In the guide",
+    keywords: "polypropylene food storage containers tupperware caps kettle lunch box tomato stains freezer brittle"
+  },
+  {
+    title: "PC and Tritan: Premium Drinkware",
+    url: "guides/plastics-field-guide.html#pc-tritan",
+    section: "Plastics · In the guide",
+    keywords: "polycarbonate tritan water bottle drinkware bpa-free crazing blender jar"
+  },
+  {
+    title: "Melamine Plates and Nylon Utensils",
+    url: "guides/plastics-field-guide.html#melamine-nylon",
+    section: "Plastics · In the guide",
+    keywords: "melamine plates dishes microwave rule nylon spatula utensils melted bevel kitchen"
+  },
+  {
+    title: "Plastic and Food Safety, Honestly",
+    url: "guides/plastics-field-guide.html#safety",
+    section: "Plastics · In the guide",
+    keywords: "safety bpa bps phthalates leaching migration microwave safe dishwasher food contact scratched containers baby"
+  },
+  {
+    title: "Products by Plastic: The Master Table",
+    url: "guides/plastics-field-guide.html#master-table",
+    section: "Plastics · In the guide",
+    keywords: "master table product plastic type cutting board water bottle shower curtain cooler replace when reference"
+  },
+  {
+    title: "Glossary: Plastic Safety Terms",
+    url: "guides/plastics-field-guide.html#glossary",
+    section: "Plastics · In the guide",
+    keywords: "glossary migration bpa phthalates tritan peva crazing food grade nsf terms"
+  },
+  {
+    title: "Recycling, for Real: What Happens After the Bin — and What Doesn't",
+    url: "guides/plastics-recycling.html",
+    section: "Plastics · Chapter 4",
+    keywords: "recycling plastic recycling explained what happens after the bin deep dive truth honest"
+  },
+  {
+    title: "The Chasing-Arrows Myth",
+    url: "guides/plastics-recycling.html#arrows",
+    section: "Plastics · In the guide",
+    keywords: "chasing arrows myth recycling symbol history industry green guides california recyclable claims"
+  },
+  {
+    title: "Inside the Sorting Plant (MRF)",
+    url: "guides/plastics-recycling.html#mrf",
+    section: "Plastics · In the guide",
+    keywords: "mrf materials recovery facility sorting nir optical sorter eddy current screens tanglers bale how recycling works"
+  },
+  {
+    title: "Which Plastics Actually Get Recycled",
+    url: "guides/plastics-recycling.html#which-recycle",
+    section: "Plastics · In the guide",
+    keywords: "which plastics recycled pet hdpe pp downcycling film foam multilayer not recyclable"
+  },
+  {
+    title: "Chemical and Advanced Recycling",
+    url: "guides/plastics-recycling.html#chemical",
+    section: "Plastics · In the guide",
+    keywords: "chemical recycling advanced pyrolysis depolymerization enzymatic pet promise reality"
+  },
+  {
+    title: "Recycling Right at Home",
+    url: "guides/plastics-recycling.html#at-home",
+    section: "Plastics · In the guide",
+    keywords: "recycle right caps on rinse no bags wish-cycling contamination store drop-off rules what goes in the bin"
+  },
+  {
+    title: "Microplastics",
+    url: "guides/plastics-recycling.html#microplastics",
+    section: "Plastics · In the guide",
+    keywords: "microplastics tire wear textile fibers laundry health ocean environment"
+  },
+  {
+    title: "What Actually Helps",
+    url: "guides/plastics-recycling.html#what-works",
+    section: "Plastics · In the guide",
+    keywords: "what helps reduce reuse deposit return bottle bill recycled content buy recycled"
+  },
+  {
+    title: "Glossary: Recycling Terms",
+    url: "guides/plastics-recycling.html#glossary",
+    section: "Plastics · In the guide",
+    keywords: "glossary mrf nir pcr downcycling wish-cycling closed loop bale tangler pyrolysis terms"
+  },
+  {
+    title: "Bale to Pellet: How PET and HDPE Come Back as Raw Material",
+    url: "guides/plastics-reclaiming.html",
+    section: "Plastics · Chapter 5",
+    keywords: "reclaiming reclaimer bale to pellet rpet rhdpe recycled resin pcr how recycling plant works deep dive"
+  },
+  {
+    title: "Bale Grades, Specs and Prices",
+    url: "guides/plastics-reclaiming.html#bale-grades",
+    section: "Plastics · In the guide",
+    keywords: "bale grades specs price natural hdpe premium apr model bale specifications commodity contamination discount"
+  },
+  {
+    title: "The Hot Wash: How Flake Gets Clean",
+    url: "guides/plastics-reclaiming.html#grind-wash",
+    section: "Plastics · In the guide",
+    keywords: "granulator flake hot wash caustic labels glue friction washer rinse recycling washing"
+  },
+  {
+    title: "The Float-Sink Tank, in Full",
+    url: "guides/plastics-reclaiming.html#float-sink",
+    section: "Plastics · In the guide",
+    keywords: "float sink density separation pet sinks caps float elutriation why caps on bottle cap separation"
+  },
+  {
+    title: "Flake Sorting and the PVC Problem",
+    url: "guides/plastics-reclaiming.html#flake-polish",
+    section: "Plastics · In the guide",
+    keywords: "flake optical sorter color sort pvc contamination ppm black specks hydrochloric melt"
+  },
+  {
+    title: "PET's Extra Mile: IV, SSP and Food Grade",
+    url: "guides/plastics-reclaiming.html#pet-food-grade",
+    section: "Plastics · In the guide",
+    keywords: "intrinsic viscosity ssp solid state polycondensation food grade rpet fda letter no objection bottle to bottle super clean"
+  },
+  {
+    title: "HDPE Reclaiming: Color, Smell and Second Lives",
+    url: "guides/plastics-reclaiming.html#hdpe-path",
+    section: "Plastics · In the guide",
+    keywords: "rhdpe natural colored odor deodorizing milk jug recycling detergent bottle pipe lumber markets"
+  },
+  {
+    title: "Glossary: Reclaiming Terms",
+    url: "guides/plastics-reclaiming.html#glossary",
+    section: "Plastics · In the guide",
+    keywords: "glossary reclaimer debaler flake hot wash float sink elutriation iv ssp pcr letter of no objection terms"
+  },
+  {
     title: "How We Test",
     url: "guides/how-we-test.html",
     section: "Makers Manual · Methodology",
@@ -374,5 +626,11 @@ window.MM_SEARCH_INDEX = [
     url: "sections/home-it.html",
     section: "Section",
     keywords: "home it infrastructure section all guides server network self-hosting homelab"
+  },
+  {
+    title: "Plastics — Section Front",
+    url: "sections/plastics.html",
+    section: "Section",
+    keywords: "plastics section all guides polymers materials recycling household"
   }
 ];

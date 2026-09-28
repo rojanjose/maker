@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Illustration of injection molding — pellets feeding a screw that injects melt into a two-part mold, with the finished part ejected beside it">
+  <rect width="1200" height="560" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- hopper with pellets -->
+    <rect x="344" y="150" width="32" height="62" fill="#ffffff"/>
+    <path d="M300 60 L420 60 L390 150 L330 150 Z" fill="#c9dbe4"/>
+    <g stroke="none" fill="#a94418">
+      <circle cx="340" cy="92" r="5"/>
+      <circle cx="362" cy="108" r="5"/>
+      <circle cx="382" cy="88" r="5"/>
+      <circle cx="352" cy="128" r="5"/>
+      <circle cx="360" cy="180" r="5"/>
+    </g>
+    <!-- barrel with screw -->
+    <rect x="170" y="212" width="560" height="70" rx="12" fill="#ffffff"/>
+    <g stroke-width="4">
+      <line x1="210" y1="220" x2="248" y2="274"/>
+      <line x1="290" y1="220" x2="328" y2="274"/>
+      <line x1="370" y1="220" x2="408" y2="274"/>
+      <line x1="450" y1="220" x2="488" y2="274"/>
+      <line x1="530" y1="220" x2="568" y2="274"/>
+      <line x1="610" y1="220" x2="648" y2="274"/>
+    </g>
+    <path d="M730 230 L775 247 L730 264 Z" fill="#ffffff"/>
+    <!-- mold halves: cavity and core -->
+    <rect x="775" y="150" width="130" height="230" rx="10" fill="#dce8f2"/>
+    <path d="M905 222 L864 222 Q848 222 848 238 L848 298 Q848 314 864 314 L905 314" fill="#efe9df" stroke-width="5"/>
+    <rect x="955" y="150" width="130" height="230" rx="10" fill="#dce8f2"/>
+    <rect x="925" y="236" width="30" height="64" rx="6" fill="#dce8f2" stroke-width="5"/>
+    <!-- ejected part -->
+    <path d="M1000 448 L1005 512 Q1006 522 1016 522 L1054 522 Q1064 522 1065 512 L1070 448 Z" fill="#a94418"/>
+    <!-- bench line -->
+    <line x1="150" y1="530" x2="1080" y2="530"/>
+  </g>
+</svg>

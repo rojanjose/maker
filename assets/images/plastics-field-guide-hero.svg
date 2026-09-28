@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a kitchen shelf holding a row of plastic containers, a pitcher, a cutting board and stacked tubs">
+  <rect width="1200" height="675" fill="#efe9df"/>
+  <g stroke="#1a1a1a" stroke-width="4.6" fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(600 620) scale(1.3) translate(-600 -620)">
+    <!-- rectangular container with lid -->
+    <rect x="186" y="440" width="150" height="24" rx="8" fill="#a94418"/>
+    <rect x="196" y="464" width="130" height="104" rx="8" fill="#ffffff"/>
+    <!-- round container with lid -->
+    <rect x="374" y="462" width="132" height="20" rx="8" fill="#ffffff"/>
+    <rect x="380" y="482" width="120" height="86" rx="10" fill="#dce8f2"/>
+    <!-- pitcher -->
+    <path d="M566 448 L558 550 Q557 568 574 568 L642 568 Q658 568 657 550 L650 448 Z" fill="#ffffff"/>
+    <path d="M566 450 L544 430 Q566 438 582 442 Z" fill="#ffffff" stroke-width="4"/>
+    <path d="M650 468 q38 8 38 46 q0 38 -38 44"/>
+    <!-- cutting board with hang hole -->
+    <rect x="740" y="430" width="150" height="138" rx="14" fill="#c9dbe4"/>
+    <circle cx="815" cy="458" r="10" fill="#efe9df" stroke-width="4"/>
+    <!-- stacked tubs -->
+    <path d="M940 508 L950 564 Q951 568 958 568 L1022 568 Q1029 568 1030 564 L1040 508 Z" fill="#ffffff"/>
+    <path d="M944 448 L953 504 Q954 508 961 508 L1019 508 Q1026 508 1027 504 L1036 448 Z" fill="#dce8f2"/>
+    <path d="M948 388 L956 444 Q957 448 964 448 L1016 448 Q1023 448 1024 444 L1032 388 Z" fill="#ffffff"/>
+    <!-- shelf board on legs -->
+    <rect x="150" y="568" width="900" height="16" rx="6" fill="#ffffff"/>
+    <line x1="260" y1="584" x2="260" y2="620" stroke-width="6"/>
+    <line x1="940" y1="584" x2="940" y2="620" stroke-width="6"/>
+    <line x1="160" y1="620" x2="1040" y2="620"/>
+  </g>
+</svg>
